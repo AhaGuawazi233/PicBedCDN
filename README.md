@@ -1,0 +1,2 @@
+# PicBedCDN
+PicBedCDN
